@@ -1,0 +1,10 @@
+[
+    {
+        "modid": "kill2gpaid",
+        "name": "Kill2GPaid",
+        "version": "Beta 1.0.0",
+        "requiredMods": [
+            "spongeapi@5.1.0-SNAPSHOT"
+        ]
+    }
+]
